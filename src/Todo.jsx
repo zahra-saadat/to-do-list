@@ -44,8 +44,7 @@ function MyTodo (){
                     type="button" value={"Low"} onClick={handleSelect}>Low</button>
                     </div>
                     <button className="btn btn-lg text-bg-secondary mt-4 float-end" type="button" 
-                    onClick={handleClick}>+
-                    </button>
+                    onClick={handleClick}>+</button>
                 </form>
                 </div>
                 <div className="container col-sm-8 pt-3 text-bg-light">
